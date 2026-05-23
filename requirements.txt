@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+statsmodels
+jupyter
+notebook
+pytest
+flake8
+black
+dvc
