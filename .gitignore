@@ -3,5 +3,7 @@ __pycache__/
 .env
 venv/
 .ipynb_checkpoints/
-data/
-.dvc/cache/
+
+# Ignore the actual data files, but allow tracking files
+data/*
+!data/*.dvc
