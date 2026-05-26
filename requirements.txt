@@ -12,3 +12,6 @@ pytest
 flake8
 black
 dvc
+xgboost
+shap
+lime
